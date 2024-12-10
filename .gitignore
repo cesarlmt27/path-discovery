@@ -3,3 +3,4 @@ venv
 *txt
 *.pcapng
 private.py
+!requirements.txt
